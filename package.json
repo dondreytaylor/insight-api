@@ -66,7 +66,7 @@
   "dependencies": {
     "async": "*",
     "bitcore-lib": "https://github.com/dondreytaylor/bitcore-lib#cf4a7f3097c7dc4492cf4d008cc14b85d0b36a37",
-    "bitcore-message": "https://github.com/dondreytaylor/bitcore-message",
+    "bitcore-message": "https://github.com/dondreytaylor/bitcore-message#0aa025db16604b9d17d9d00dd2284209a9e550c7",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
